@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rabarbarra
-- 👀 I’m interested in exploring the bottomless possibilities of coding
+- 👀 I’m interested in exploring the bottomless possibilities of coding!
 - 🌱 I’m currently learning Python, Django, HTML and CSS
 - 📫 Reach me at barbaramanturzyk@gmail.com
 
